@@ -45,4 +45,5 @@ The worked examples inside `butterfly-collector/references/examples/` are **sani
 
 ## Author
 
-Robert García — I build and operate AI systems for the un-artificial; I don't hand-write code. This library documents the operating method: decompose the ambition, assign the right grade of model to the right shape of work, gate what's irreversible behind human checkpoints, verify behavior rather than trusting reports, measure what it cost, and rewrite the doctrine when the measurements disagree.
+Robert García — I build and operate AI systems for the un-artificial; I don't hand-write code. This library documents the operating method: decompose the ambition, assign the right grade of model to the right shape of work, gate what's irreversible behind human checkpoints, verify behavior rather than trusting reports, measure what it cost, and rewrite the doctrine when the measurements disagree. This library is one piece of a larger portfolio at https://robertgarcia.ai .
+
